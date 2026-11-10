@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aura Themes</string>
+    <string name="tab_themes">Themes</string>
+    <string name="tab_wallpapers">Wallpapers</string>
+    <string name="tab_ringtones">Ringtones</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="both_screens">Both Screens</string>
+    <string name="set_ringtone">Set as Ringtone</string>
+    <string name="set_notification">Set as Notification</string>
+    <string name="set_alarm">Set as Alarm</string>
+</resources>
